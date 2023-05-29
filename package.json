@@ -3,6 +3,28 @@
   "displayName": "Dark Plus Oled",
   "description": "Dark Plus Oled",
   "version": "0.0.1",
+  "publisher":"WeiyuWang",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wwang1110/dark-plus-oled"
+  },
+  "keywords": [
+    "Theme",
+    "Dark+",
+    "Night Plus",
+    "Night Theme",
+    "Oled",
+    "Oled Dim"
+  ],
+  "scripts": {
+    "publish": "vsce publish"
+  },
+  "galleryBanner": {
+    "color": "#061526",
+    "theme": "dark"
+  },
+  "icon": "owl-icon.png",
   "engines": {
     "vscode": "^1.78.0"
   },
