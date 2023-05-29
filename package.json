@@ -1,0 +1,46 @@
+{
+  "name": "dark-plus-oled",
+  "displayName": "Dark Plus Oled",
+  "description": "Dark Plus Oled",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark Plus Oled",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-plus-dim-100.json"
+      },
+      {
+        "label": "Dark Plus Oled 95 Dim",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-plus-dim-95.json"
+      },
+      {
+        "label": "Dark Plus Oled 90 Dim",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-plus-dim-90.json"
+      },
+      {
+        "label": "Dark Plus Oled 85 Dim",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-plus-dim-85.json"
+      },
+      {
+        "label": "Dark Plus Oled 80 Dim",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-plus-dim-80.json"
+      },
+      {
+        "label": "Dark Plus Oled 75 Dim",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-plus-dim-75.json"
+      }
+    ]
+  }
+}
